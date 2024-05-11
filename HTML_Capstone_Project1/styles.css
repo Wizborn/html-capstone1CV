@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(128, 159, 195);
+    text-align: left;
+    font-family: Arial, sans-serif;
+    color: black;
+    width:fit-content;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin:auto;
+    border: 5px solid rgb(116, 122, 127); /* all sides */
+    border: 2px dotted;
+}
+
+nav {
+    background: #1e1e1e ;
+    width: 100%;    
+    color: white;       
+    padding: 10px;
+    text-align: center;
+    /*margin: auto;*/
+    
+}
